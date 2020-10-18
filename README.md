@@ -1,6 +1,6 @@
 # IRC Quote Dataset
 
-Unoffficial of cleaned IRC quotes from bash.org
+Unoffficial of cleaned IRC quotes from [bash.org](http://bash.org)
 
 All rights belong to bash.org.
 
