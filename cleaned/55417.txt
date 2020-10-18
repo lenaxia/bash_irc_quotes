@@ -1,0 +1,5 @@
+        #55417 +(23)- [X]
+
+        <Jiggs> Can anyone tell me the correct syntax for using "!
+        list" for getting the server info?
+

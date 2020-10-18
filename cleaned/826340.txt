@@ -1,0 +1,6 @@
+        #826340 +(1242)- [X]
+
+        <apples> the program 'apt-get' is currently not installed. You
+        can install it by typing: apt-get install apt
+        <fuchoo> lol
+

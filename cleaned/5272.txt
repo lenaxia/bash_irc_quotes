@@ -1,0 +1,5 @@
+        #5272 +(1954)- [X]
+
+        <django23> I have a stupid question: what does "sendmail" do?
+        <Epesh> django: you're right, that is pretty stupid
+

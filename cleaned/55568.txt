@@ -1,0 +1,8 @@
+        #55568 +(617)- [X]
+
+        <vocalizedWHORE> mmm, c++
+        <vocalizedWHORE> do.this();
+        <vocalizedWHORE> do.that();
+        <vocalizedWHORE> if (error)
+        <vocalizedWHORE> blame(microsoft);
+

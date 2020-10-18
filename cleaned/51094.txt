@@ -1,0 +1,8 @@
+        #51094 +(116)- [X]
+
+        <Kae> dangit, I'm missing two bytes
+        <Epesh> Kae: make them up!
+        * l_oke hands kae a unicode character
+        <Epesh> there's only 65000 combinations
+        * Kae pads with 0's
+

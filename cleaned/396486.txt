@@ -1,0 +1,7 @@
+        #396486 +(254)- [X]
+
+        <LaPengo> .8ball Am I the hotz?
+        <PengoBot> <<LaPengo>>  : Definitely LaPengo...
+        <Bison> .8ball Was that rigged?
+        <PengoBot> <<Bison >>  : Most likely!
+

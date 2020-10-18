@@ -1,0 +1,8 @@
+        #183340 +(2051)- [X]
+
+        <%Hamtaro> I tried to register the AIM name "Your mother"
+        <%Hamtaro> And got this
+        <%Hamtaro> Create a Screen Name
+        <%Hamtaro> 
+        <%Hamtaro> Sorry, Your mother is already in use
+

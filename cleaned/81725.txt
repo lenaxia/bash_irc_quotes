@@ -1,0 +1,4 @@
+        #81725 +(86)- [X]
+
+        <linux-n00b> Now how do I edit a .php in frontpage?
+

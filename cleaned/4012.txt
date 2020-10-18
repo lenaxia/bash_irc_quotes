@@ -1,0 +1,5 @@
+        #4012 +(224)- [X]
+
+        <Gallant> what's the point of programmin C/C++ if your goal is
+        to make readable code?
+

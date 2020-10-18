@@ -1,0 +1,6 @@
+        #2855 +(59)- [X]
+
+        <|nec|> hihi all
+        <|nec|> can anyone tell me if its possible to set up a efnet
+        server on a homepc
+

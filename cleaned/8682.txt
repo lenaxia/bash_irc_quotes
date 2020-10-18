@@ -1,0 +1,7 @@
+        #8682 +(89)- [X]
+
+        <jamesm> what are you running on the alphas?
+        <MMouse> tru64 at the moment
+        <MMouse> with oracle
+        <jamesm> no wonder so many dotcoms go under
+

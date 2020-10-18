@@ -1,0 +1,7 @@
+        #52398 +(339)- [X]
+
+        <chintss> how do i configure ftp http and telnet  in RH 8.0
+        <chintss> plzzzzz
+        <tictac> chintss: rtfm
+        <chintss> tictac : rtfm: command not found
+

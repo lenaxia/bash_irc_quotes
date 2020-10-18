@@ -1,0 +1,9 @@
+        #42408 +(92)- [X]
+
+        <TML> simon-: You're single, aren't you?
+        <simon-> TML, yes, why?
+        <TML> simon-: I can tell by the fact you think in terms of
+        'TML->wife'
+        <octatron> TML: would you have used TML['wife']? :P
+        <TML> octatron: No. I'd use wife->TML
+

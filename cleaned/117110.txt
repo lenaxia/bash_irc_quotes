@@ -1,0 +1,11 @@
+        #117110 +(909)- [X]
+
+        <fade> Dear France,
+        <fade> Bite Me
+        <fade> Signed,
+        <fade> Fade
+        <Queued> Dear Fade,
+        <Queued> We surrender
+        <Queued> Love,
+        <Queued> France
+

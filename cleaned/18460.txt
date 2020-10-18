@@ -1,0 +1,8 @@
+        #18460 +(152)- [X]
+
+        <Fryth> What is ".net"? Some kind of asp development standard?
+        <Calrathan> Fryth, distributed computing solution by MS.
+        <Calrathan> in otherwords... MS can disolve computers around
+        the world with this stuff
+        <Calrathan> [distributed computing SOLUTION... har har har]
+

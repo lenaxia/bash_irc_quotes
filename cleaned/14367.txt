@@ -1,0 +1,6 @@
+        #14367 +(149)- [X]
+
+        <Krogzar> !8ball may i kick you?
+        <SDs8ball> Krogzar : YES IN DUE TIME
+        *** SDs8ball was kicked by P ((Krogzar) ta time is due)
+

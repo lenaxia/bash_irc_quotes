@@ -1,0 +1,5 @@
+        #6219 +(318)- [X]
+
+        <Twister> vim is great, but I honestly need an editor that can
+        delete lines.
+

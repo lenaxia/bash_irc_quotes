@@ -1,0 +1,9 @@
+        #451536 +(859)- [X]
+
+        <poit[fsgc> !decide "slack off and lie about the reason" "do
+        the work and have a clean moral slate"
+        <CrockPot> The roll of the dice picks: slack off and lie about
+        the reason.
+        <poit[fsgc> Good bot
+        * poit[fsgc goes to sleep
+

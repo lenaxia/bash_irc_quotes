@@ -1,0 +1,5 @@
+        #6438 +(220)- [X]
+
+        <shev> Efnet needs to get mIRC to include an air raid siren
+        wav file, and play it when there's a server hack
+

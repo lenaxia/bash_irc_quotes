@@ -1,0 +1,10 @@
+        #519288 +(625)- [X]
+
+        Phil (Penfold): 600/month each for a house is a lot of money
+        laurence: Uh, £400...
+        Phil (Penfold): 400?
+        laurence: 1200/3=400...
+        Phil (Penfold): oh right
+        * Phil (Penfold) had to use a calculator
+        Phil (Penfold): but forgot it was in hex
+

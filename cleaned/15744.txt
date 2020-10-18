@@ -1,0 +1,6 @@
+        #15744 +(142)- [X]
+
+        <kavonr> our new senior unix sysadmin can't change the ip
+        address on a sun
+          workstation.
+

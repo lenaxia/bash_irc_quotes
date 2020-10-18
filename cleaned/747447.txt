@@ -1,0 +1,10 @@
+        #747447 +(72)- [X]
+
+        Archpo: Ok, I m stealing that.
+        Drmn: haha
+        *** Auto-response from Archpo: rm * /dev/bladder; cat /dev/
+        fridge | grep food
+        Drmn: trouble with that is remembering to treat /dev/fridge as
+        a FIFO and not a block device
+        Drmn: *contemplates 3 day old pizza vs. 2 day old indian food*
+

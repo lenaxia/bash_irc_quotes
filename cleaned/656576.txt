@@ -1,0 +1,8 @@
+        #656576 +(335)- [X]
+
+        <HardlyJW> anyone know how to change an ip?
+        <lysip> yes
+        <lysip> clone your mac
+        <HardlyJW> ?
+        <HardlyJW> i have windows...
+

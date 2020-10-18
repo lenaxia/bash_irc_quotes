@@ -1,0 +1,6 @@
+        #945387 +(1502)- [X]
+
+        <IncoherentMoron> choose an integer between 1 and 35
+        <Elliotw2> F
+        <IncoherentMoron> base 10, smartass
+

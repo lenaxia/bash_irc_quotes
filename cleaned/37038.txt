@@ -1,0 +1,11 @@
+        #37038 +(258)- [X]
+
+        <hodb> .
+        <Hydr> ..
+        <hodb> ...
+        <Riku> ....
+        <Hydr> ...
+        <Riku> ..
+        <Hydr> .
+        <Riku> IRC is art.
+

@@ -1,0 +1,5 @@
+        #42821 +(23)- [X]
+
+        <Denkan> ASP is like a chat-dialog with the server... in PHP
+        you type codes
+

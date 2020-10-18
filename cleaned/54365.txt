@@ -1,0 +1,7 @@
+        #54365 +(407)- [X]
+
+        <default> say something nice to my mom if your around
+        <magpie> who's your mom
+        <magpie> that lady chainded up in the closet
+        <default> no the women looking over my shoulder
+

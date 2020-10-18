@@ -1,0 +1,20 @@
+        #756353 +(1992)- [X]
+
+        <knightmare> sixtho I challenge you to IRC DDR!
+        <sixtho> ummm ok
+        <knightmare> + ddrbot start 10
+        <DDRBot> Game Started!
+        <DDRBot> <
+        <knightmare> <
+        <sixtho> <
+        <DDRBot> ^^
+        <knightmare> ^^
+        <sixtho> ^^
+        <DDRBot> vvv
+        <knightmare> vvv
+        <sixtho> wtf
+        <DDRBot> knightmare wins!
+        <knightmare> ?
+        <sixtho> where the shit is the down arrow
+        <knightmare> ...
+

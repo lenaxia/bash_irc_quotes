@@ -1,0 +1,10 @@
+        #84795 +(6)- [X]
+
+        <Oki> omg
+        <Oki> 12:25p   EnterTheGame  SecurityServices  : We will be
+        validating your network access in a few moments... Please
+        don't be alarmed if you notice a couple connections on your
+        firewall during this scan.
+        <Oki> I thought it said "Please don't be ashamed if you notice
+        a couple connections on your firewall during this scan."
+

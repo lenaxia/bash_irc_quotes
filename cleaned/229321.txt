@@ -1,0 +1,6 @@
+        #229321 +(919)- [X]
+
+        <@amoeba> hey, what's the keyboard shortcut to discard the
+        current buffer in emacs?
+        <@thatguy> do you have 12 fingers
+

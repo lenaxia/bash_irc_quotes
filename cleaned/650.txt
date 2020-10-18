@@ -1,0 +1,4 @@
+        #650 +(471)- [X]
+
+        <Auspex> how do i decompile a .c in windows?
+

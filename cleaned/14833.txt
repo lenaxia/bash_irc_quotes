@@ -1,0 +1,7 @@
+        #14833 +(533)- [X]
+
+        --> guest (~SportsCar@166.111.6.93) has joined #lgl
+        * guest ´ó½Ð£º¾ÈÃü°¡£¡ ¾ÈÃü°¡£¡
+        <khalek> you seem to be a little mixed up
+        <khalek> this is not #perl
+

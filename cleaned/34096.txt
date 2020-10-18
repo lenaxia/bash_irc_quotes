@@ -1,0 +1,6 @@
+        #34096 +(189)- [X]
+
+        * teh_binfu does the stupid person who didnt save his bzImage
+        file before copying the new one over and now his box is
+        screwed up dance
+

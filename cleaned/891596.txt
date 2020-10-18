@@ -1,0 +1,5 @@
+        #891596 +(1094)- [X]
+
+        <War> what's a spectral wolf?
+        <Herr_apa> It's the Fourier transform of a regular wolf, duh
+

@@ -1,0 +1,7 @@
+        #51991 +(80)- [X]
+
+        <Area-51> wanna know a good one?
+        <AOLuser> a good one what?
+        <Area-51> i mistyped the "yes | rm ..." command and deleted my
+        entire home directory, including the eggdrop :P
+

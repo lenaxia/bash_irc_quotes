@@ -1,0 +1,12 @@
+        #603686 +(320)- [X]
+
+        <ravon> kamikaze_: japp
+        <ravon> kamikaze_: Något i den stilen, men du får lugna dig
+        med parametrarna.
+        <ravon> kamikaze_: Vadå, förstår du inte vad jag säger? Bra
+        kodde.
+        <wipu> oh setLocale(Locale.EN)
+        <ravon> wipu: nah, just speak a random language as
+        retaliation.
+        <wipu> i just did, my choice was java :)
+

@@ -1,0 +1,7 @@
+        #781139 +(943)- [X]
+
+        <Personman> So pieces of binary information are bits...
+        <Personman> And ternary ones are trits...
+        <Personman> But that's far enough, I think.
+        <Personman> When we get to base 4, we should call it quits.
+

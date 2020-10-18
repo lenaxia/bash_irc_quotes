@@ -1,0 +1,11 @@
+        #641114 +(3001)- [X]
+
+        <Produkt> how do i put a new picture on the gallery
+        <Pi> ERROR: QUESTION MARK MISSING
+        <Produkt> ?
+        <Pi> ERROR: QUESTION MISSING
+        <Produkt> how do i put a new picture on the gallery?
+        <Pi> ERROR: TOO MANY ATTEMPTS
+        <Produkt> youre a fag
+        <Pi> PLEASE TRY AGAIN LATER
+

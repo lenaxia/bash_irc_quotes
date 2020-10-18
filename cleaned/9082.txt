@@ -1,0 +1,8 @@
+        #9082 +(49)- [X]
+
+        <sprite> jorn, haven't you had a few drinks yet?>
+        <sprite> sounded like you needed them three hours ago....
+        <jorn> no drinks yet
+        <jorn> :(
+        <jorn> maybe if i drank more, i coudl tipe beddur
+

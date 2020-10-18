@@ -1,0 +1,9 @@
+        #1936 +(354)- [X]
+
+        <fimmtiu>  asylum, then your disk is full. *shrug*  Wield rm
+        -f wildly.
+        <asylum_>  fimmtiu. yeah right dude.
+        <DemoN>  rm -f is too slow.  newfs.
+        <rudefix>  hell, i just prefer to take the disk out and lick
+        it!
+

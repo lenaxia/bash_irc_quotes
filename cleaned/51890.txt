@@ -1,0 +1,5 @@
+        #51890 +(565)- [X]
+
+        <bllllll> The instructions said to install Microsoft Windows
+        (tm) XP or better, so I installled OpenBSD.
+

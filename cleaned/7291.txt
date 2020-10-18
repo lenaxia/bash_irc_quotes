@@ -1,0 +1,8 @@
+        #7291 +(327)- [X]
+
+        <Iced> the IDE cable from the COM2 to the port is fsked
+        <Iced> it must be that
+        <NepCHooN> ide cable?
+        <NepCHooN> your com2 hooks into your hard drive?
+        <NepCHooN> i ph33r your pc!!
+

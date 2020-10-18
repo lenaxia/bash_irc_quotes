@@ -1,0 +1,12 @@
+        #12768 +(2015)- [X]
+
+        <eltawater> anyone know the name of a (mathematical) function
+        which calculates how many times a number M fits into a number
+        N?
+        <eltawater> i.e. 20,4 = 5
+        <eltawater> ?
+        <Biddle> Division?
+        <AlleyCat> divisor
+        <eltawater> er
+        <eltawater> *smacks head into desk*
+

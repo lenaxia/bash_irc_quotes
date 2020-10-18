@@ -1,0 +1,7 @@
+        #3338 +(56)- [X]
+
+        *** [SNiPeR] (invisible@pD951E3E2.dip.t-dialin.net) has joined
+        #efnet
+        <[SNiPeR]> got a problem...i wanna register a chan but
+        chanserv doesn´t work
+

@@ -1,0 +1,6 @@
+        #15682 +(146)- [X]
+
+        <jimmie> i was gonna spell something with our inaddrs so when
+        you tracerouted
+          our network it said stuff
+

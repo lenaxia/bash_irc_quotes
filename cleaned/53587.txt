@@ -1,0 +1,9 @@
+        #53587 +(735)- [X]
+
+        <BhavFox> FurServ: op me
+        <FurServ> BhavFox: You are already opped.
+        <BhavFox> ;O)
+        <Kas> FurServ: suck me
+        <Kas> aww
+        <Hawx> Kas: You already suck.
+

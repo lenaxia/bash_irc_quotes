@@ -1,0 +1,6 @@
+        #675190 +(601)- [X]
+
+        <postlogic> You should -never- go back and look at
+        spur-of-the-moment written code.
+        <postlogic> It's like watching yourself throw up in replay.
+

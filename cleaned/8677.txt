@@ -1,0 +1,6 @@
+        #8677 +(39)- [X]
+
+        <drewb> I still dont get how you can use linux when it doesnt
+        have a control panel
+        <jamesm> well duh, use xeyes
+

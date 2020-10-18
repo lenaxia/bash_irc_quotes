@@ -1,0 +1,8 @@
+        #100085 +(598)- [X]
+
+        <jome> I suppose there are bad coders, there are really bad
+        coders, there are fucking retards, and there's coders writing
+        lines like this: $resultscode = $resultscode - 0;
+        <jome> Serious, that's an actual line from a script I'm going
+        to rewrite..
+

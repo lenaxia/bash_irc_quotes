@@ -1,0 +1,6 @@
+        #817843 +(1729)- [X]
+
+        <phil> ok ok ops quiz
+        <phil> what's the command to leave an irc channel?
+        * Garron has quit IRC (Quit: )
+

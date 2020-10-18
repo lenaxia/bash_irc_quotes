@@ -1,0 +1,7 @@
+        #414407 +(8)- [X]
+
+        * Force| looks at the topic
+        *** Topic on #athlon is: Welcome to #longbus
+        <Force|> Wow!
+        <Force|> I'm finally on the long bus!!!
+

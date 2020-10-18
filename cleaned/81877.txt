@@ -1,0 +1,9 @@
+        #81877 +(110)- [X]
+
+        Maxx`: typing "/list" you are flooding this irc server!
+        -  [quit] Rob_acid (Max SendQ exceeded)
+        -  [quit] milashka^ (Max SendQ exceeded)
+        -  [quit] Alinka (Max SendQ exceeded)
+        -  [quit] Marakabez (Max SendQ exceeded)
+        SkiF: LOL
+

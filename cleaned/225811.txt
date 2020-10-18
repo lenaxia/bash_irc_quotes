@@ -1,0 +1,6 @@
+        #225811 +(1026)- [X]
+
+        * ViVa changes topic to 'SELECT boobs FROM under_the_shirt
+        WHERE gender = 'female' AND size > 'enough' AND leftsize =
+        rightsize LIMIT 2;'
+

@@ -1,0 +1,5 @@
+        #675734 +(1264)- [X]
+
+        Chris: I hate the way flash slows browsers down
+        Steve: Try java, that slows it down much better
+

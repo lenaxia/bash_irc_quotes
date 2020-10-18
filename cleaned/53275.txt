@@ -1,0 +1,6 @@
+        #53275 +(22)- [X]
+
+        * odds5050 has sent you a Christmas greeting. Type /server
+        mail to view the attachment
+        *** King_menthol has quit IRC
+

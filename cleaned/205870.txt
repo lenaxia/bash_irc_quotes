@@ -1,0 +1,7 @@
+        #205870 +(322)- [X]
+
+        --> therevelator (~none@artemis.stud.uni-goettingen.de) has
+        joined #linux-kernel
+        <therevelator> hi. does anybody know how to make the
+        init-process look look like star wars?
+

@@ -1,0 +1,5 @@
+        #965693 +(-213)- [X]
+
+        <yuritrue> you can connect over tor i think if you use sasl
+        <yuritrue> don't quote me on that though
+

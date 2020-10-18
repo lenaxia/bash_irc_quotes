@@ -1,0 +1,5 @@
+        #7428 +(446)- [X]
+
+        <Phuser> my fan club has a member
+        <Phuser> my member has a fan club
+

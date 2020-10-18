@@ -1,0 +1,104 @@
+        #954425 +(1354)- [X]
+
+        C:UsersNetham45>tracert -h 100 216.81.59.173
+
+        Tracing route to FIN [216.81.59.173]
+        over a maximum of 100 hops:
+
+          1    <1 ms    <1 ms    <1 ms  -snip-
+          2    26 ms    52 ms    28 ms  -snip-
+          3    14 ms    33 ms    49 ms  -snip-
+          4    18 ms    22 ms    22 ms  -snip-
+          5    19 ms    23 ms    22 ms  -snip-
+          6    27 ms    30 ms    30 ms  -snip-
+          7    31 ms    31 ms    34 ms  -snip-
+          8    26 ms    27 ms    30 ms  75.149.231.30
+          9    46 ms    66 ms    66 ms  xe-1-2-0.atl11.ip4.tinet.net
+        [89.149.181.117]
+        10     *       49 ms    49 ms  epik-networks-gw.ip4.tinet.net
+        [77.67.69.158]
+        11    61 ms    59 ms    63 ms  po0-3.dsr2.atl.epikip.net
+        [216.81.59.2]
+        12     *        *        *     Request timed out.
+        13   101 ms   118 ms   102 ms  Episode.IV [206.214.251.1]
+        14   101 ms   101 ms   102 ms  A.NEW.HOPE [206.214.251.6]
+        15    99 ms    99 ms    99 ms  It.is.a.period.of.civil.war
+        [206.214.251.9]
+        16   102 ms   136 ms   117 ms  Rebel.spaceships
+        [206.214.251.14]
+        17   116 ms    98 ms    95 ms  striking.from.a.hidden.base
+        [206.214.251.17]
+        18   101 ms   115 ms    99 ms  have.won.their.first.victory
+        [206.214.251.22]
+        19    99 ms    99 ms   100 ms 
+        against.the.evil.Galactic.Empire [206.214.251.25]
+        20   118 ms    98 ms   100 ms  During.the.battle
+        [206.214.251.30]
+        21   117 ms   101 ms   102 ms  Rebel.spies.managed
+        [206.214.251.33]
+        22    99 ms   117 ms    94 ms  to.steal.secret.plans
+        [206.214.251.38]
+        23   100 ms    96 ms   101 ms  to.the.Empires.ultimate.weapon
+        [206.214.251.41]
+        24   103 ms   101 ms   105 ms  the.DEATH.STAR [206.214.251.46]
+        25    99 ms   100 ms    96 ms  an.armored.space.station
+        [206.214.251.49]
+        26   120 ms   102 ms    98 ms  with.enough.power.to
+        [206.214.251.54]
+        27    98 ms    98 ms   118 ms  destroy.an.entire.planet
+        [206.214.251.57]
+        28    98 ms    97 ms   101 ms  Pursued.by.the.Empires
+        [206.214.251.62]
+        29   101 ms   105 ms   117 ms  sinister.agents
+        [206.214.251.65]
+        30   100 ms   100 ms   100 ms  Princess.Leia.races.home
+        [206.214.251.70]
+        31   104 ms   101 ms   102 ms  aboard.her.starship
+        [206.214.251.73]
+        32   105 ms   102 ms   103 ms  custodian.of.the.stolen.plans
+        [206.214.251.78]
+        33   100 ms   100 ms   103 ms  that.can.save.her
+        [206.214.251.81]
+        34   100 ms   106 ms   139 ms  people.and.restore
+        [206.214.251.86]
+        35   100 ms   121 ms   102 ms  freedom.to.the.galaxy
+        [206.214.251.89]
+        36    99 ms   101 ms    98 ms  0-------------------0
+        [206.214.251.94]
+        37   104 ms   118 ms   101 ms  0------------------0
+        [206.214.251.97]
+        38   100 ms    99 ms    99 ms  0-----------------0
+        [206.214.251.102]
+        39   102 ms   100 ms    97 ms  0----------------0
+        [206.214.251.105]
+        40   105 ms   118 ms   123 ms  0---------------0
+        [206.214.251.110]
+        41   100 ms   105 ms    98 ms  0--------------0
+        [206.214.251.113]
+        42   109 ms   115 ms   113 ms  0-------------0
+        [206.214.251.118]
+        43   161 ms   155 ms   154 ms  0------------0
+        [206.214.251.121]
+        44   114 ms    98 ms   112 ms  0-----------0 [206.214.251.126]
+        45   101 ms   124 ms   105 ms  0----------0 [206.214.251.129]
+        46    98 ms   143 ms   117 ms  0---------0 [206.214.251.134]
+        47   102 ms    97 ms   105 ms  0--------0 [206.214.251.137]
+        48   101 ms   101 ms   140 ms  0-------0 [206.214.251.142]
+        49   104 ms   107 ms   103 ms  0------0 [206.214.251.145]
+        50   102 ms   103 ms   104 ms  0-----0 [206.214.251.150]
+        51  1067 ms   100 ms   100 ms  0----0 [206.214.251.153]
+        52   100 ms   101 ms   104 ms  0---0 [206.214.251.158]
+        53   104 ms   101 ms   101 ms  0--0 [206.214.251.161]
+        54   108 ms   104 ms    99 ms  0-0 [206.214.251.166]
+        55   102 ms   101 ms   106 ms  00 [206.214.251.169]
+        56   106 ms   105 ms   104 ms  I [206.214.251.174]
+        57   102 ms   123 ms   105 ms  By.Ryan.Werber
+        [206.214.251.177]
+        58   117 ms   103 ms   111 ms  When.CCIEs.Get.Bored
+        [206.214.251.182]
+        59   107 ms   103 ms   105 ms  read.more.at.beaglenetworks.net
+        [206.214.251.185]
+        60   105 ms   122 ms   101 ms  FIN [216.81.59.173]
+
+        Trace complete.
+

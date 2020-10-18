@@ -1,0 +1,7 @@
+        #7216 +(180)- [X]
+
+        <eod> echo "\$cd pub" >t-shirt
+        <eod> echo "\$more beer" >>t-shirt
+        <eod> heh
+        <weis> cat t-shirt | sed s/beer/whiskey/ >better_t-shirt
+

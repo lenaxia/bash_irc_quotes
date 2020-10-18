@@ -1,0 +1,6 @@
+        #27485 +(76)- [X]
+
+        <SickRick> anyone know why linuxvideo.org is down?  was it
+        shut down?
+        <ian_> Because "linux" and "video" are mutually exclusive
+

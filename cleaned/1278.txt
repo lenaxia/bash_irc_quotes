@@ -1,0 +1,7 @@
+        #1278 +(780)- [X]
+
+        <Amanda> USER             TTY      FROM              LOGIN@ 
+        IDLE WHAT
+        <Amanda> amanda           p0       ppp152.acelink.n  2:46AM 
+           - pico vi-tutorial
+

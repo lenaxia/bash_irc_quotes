@@ -1,0 +1,11 @@
+        #58781 +(110)- [X]
+
+        <KMQ> foo is not xxxx
+        <Skunks> foo *can* be xxxx
+        <KMQ> no...
+        <KMQ> fooo can be xxxx
+        <Skunks> heh
+        <KMQ> but not foo
+        <Skunks> variable length is not limited by the name of the
+        variable :P
+

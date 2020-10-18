@@ -1,0 +1,4 @@
+        #75470 +(50)- [X]
+
+        <Amnesiac> there's something like awk in perl?
+

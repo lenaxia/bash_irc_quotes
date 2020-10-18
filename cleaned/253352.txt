@@ -1,0 +1,6 @@
+        #253352 +(136)- [X]
+
+        <diminishe> Anyone wanna help me debug some code?
+        <PreZ> diminishe, do you have a specific problem?
+        <diminishe> well, its more like pseudo code
+

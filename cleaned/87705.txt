@@ -1,0 +1,6 @@
+        #87705 +(191)- [X]
+
+        <Qube> wowzz: try putting each servers ip and name in /etc/
+        hosts
+        <wowzz> where is /etc/hosts
+

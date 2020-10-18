@@ -1,0 +1,4 @@
+        #111854 +(-8)- [X]
+
+        CTCP VERSION reply from Khaled: eggdrop v1.6.15
+

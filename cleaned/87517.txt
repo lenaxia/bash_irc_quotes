@@ -1,0 +1,6 @@
+        #87517 +(1371)- [X]
+
+        <Cotton Mouth> How do you describe the color blue to someone
+        who is blind and has never seen a color before?
+        <NickBlasta> 0 0 255
+

@@ -1,0 +1,6 @@
+        #28033 +(108)- [X]
+
+        <@i-node> I thought battlenet checked to see if you were
+        korean
+        <@i-node> if(iskorean()){acceptconnection();}
+

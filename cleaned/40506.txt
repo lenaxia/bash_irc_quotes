@@ -1,0 +1,8 @@
+        #40506 +(118)- [X]
+
+        <+DarkWaffle> newbie mIRC question: is there like a favorites
+        folder i can add channels to?
+        <+NaGone> No you type /server irc.dal.net instead
+        DarkWaffle «santaman7@pcp01450114pcs.chmbrs01.pa.comcast.net»
+        has Quit iRC
+

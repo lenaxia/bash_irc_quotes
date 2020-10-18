@@ -1,0 +1,5 @@
+        #769818 +(560)- [X]
+
+        <zachinglis> How do I recompile PHP?
+        <Vek> have you prepared the appropriate sacrifices?
+

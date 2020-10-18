@@ -1,0 +1,6 @@
+        #393802 +(324)- [X]
+
+        <_blackcat> in the bash how do I get it so that it will show
+        the all the dirs in a different color?
+        <octalpuss> i believe that's the --gay option
+

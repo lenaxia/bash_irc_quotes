@@ -1,0 +1,6 @@
+        #745894 +(379)- [X]
+
+        * Nanobot primarily uses a pi-based counting system
+        <Nanobot> I know all of the digits in pi
+        <Nanobot> It's 10
+

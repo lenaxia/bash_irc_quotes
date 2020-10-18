@@ -1,0 +1,5 @@
+        #3118 +(233)- [X]
+
+        <Orange1> why won't openbsd recognize my usb floppy drive?
+        <Orange1> it starts booting, but then can't find itself
+

@@ -1,0 +1,5 @@
+        #441908 +(229)- [X]
+
+        [ @Jesper ] windows is really secure, they just hid the close
+        exploits check box very well
+

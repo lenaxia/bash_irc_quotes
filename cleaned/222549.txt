@@ -1,0 +1,5 @@
+        #222549 +(1078)- [X]
+
+        <+commodore_dude> anyone wanna make me a magic 8-ball in java?
+        <+x24> ask again later
+

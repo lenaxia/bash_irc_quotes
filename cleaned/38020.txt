@@ -1,0 +1,6 @@
+        #38020 +(30)- [X]
+
+        <MikeG520> Hey how do I ban an ip from my computer
+        <MikeG520> actually, a whole subnet
+        <MikeG520> er isp
+

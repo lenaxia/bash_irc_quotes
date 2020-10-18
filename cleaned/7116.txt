@@ -1,0 +1,5 @@
+        #7116 +(60)- [X]
+
+        * *@michael decides that given two evils, x and y, where x=
+        cherry jolly ranchers and y=apple jolly ranchers, y<x
+

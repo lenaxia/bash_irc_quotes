@@ -1,0 +1,5 @@
+        #1171 +(363)- [X]
+
+        loofaspunge: for(int food = 0; food < worldhunger; food++)
+                       worldhunger--;
+

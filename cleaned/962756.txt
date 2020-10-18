@@ -1,0 +1,6 @@
+        #962756 +(234)- [X]
+
+        < ntc> is it possible to recover encrypted files from an
+        ecryptfs container? i lost the passphrase
+        < scorbutus> ntc: you could try filing a foia request with dhs
+

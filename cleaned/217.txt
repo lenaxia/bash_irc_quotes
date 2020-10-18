@@ -1,0 +1,5 @@
+        #217 +(1011)- [X]
+
+        <Amanda`> while(every_girl_except_me == idiot)
+        <Amanda`> cout << "INFINITE LOOP OF H8" << endl;
+

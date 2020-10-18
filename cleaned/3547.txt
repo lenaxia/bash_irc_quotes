@@ -1,0 +1,7 @@
+        #3547 +(232)- [X]
+
+        <sQuEeDeN> <applet code="filename.jar"></applet>
+        <duckman> <monkey sex="now"></monkey>
+        <sQuEeDeN> <duckman sex="none" orientation="unknown"></
+        duckman>
+

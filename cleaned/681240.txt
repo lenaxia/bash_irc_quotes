@@ -1,0 +1,6 @@
+        #681240 +(404)- [X]
+
+        <Farcaller> to get spare parts disassemble/assemble some
+        device
+        <Farcaller> repeat until you get enough spare parts
+

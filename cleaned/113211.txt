@@ -1,0 +1,7 @@
+        #113211 +(53)- [X]
+
+        <FoxBot> {MoxQuizz} The question no. 32 is:
+        <FoxBot>            (Things) What is the fear of darkness
+        known as
+        <Stonetree> africaphobia
+

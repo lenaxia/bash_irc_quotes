@@ -1,0 +1,5 @@
+        #16900 +(20)- [X]
+
+        [ctcp(the_sponge)] PING
+        ùíù CTCP PING reply from The_Sponge: +++ATH
+

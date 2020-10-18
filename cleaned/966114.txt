@@ -1,0 +1,7 @@
+        #966114 +(115)- [X]
+
+        <firefacks> cout << "hello" << endl;
+        <CoccaFukuda> printf("Sup");
+        <firefacks> Console.WriteLine("not much");
+        <sjmulder> ObjectFactory.Resolve<IGreeter>().Invoke();
+

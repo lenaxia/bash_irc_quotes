@@ -1,0 +1,5 @@
+        #17326 +(26)- [X]
+
+        <[56]Firestorm_dude_slick> is there anyway to play a 350 mhz
+        game on a 300 mhz processor?
+

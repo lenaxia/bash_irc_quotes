@@ -1,0 +1,5 @@
+        #13367 +(825)- [X]
+
+        <Blaxthos> find / -name "*base*" -user your -print |xargs
+        'chown us'
+

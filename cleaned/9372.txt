@@ -1,0 +1,10 @@
+        #9372 +(382)- [X]
+
+        <treph> I have my computer
+        <treph> and
+        <treph> no job.
+        <treph> > i
+        <treph> You are carrying:
+        <treph> a computer
+        <treph> no job
+

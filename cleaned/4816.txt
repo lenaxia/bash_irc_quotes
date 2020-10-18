@@ -1,0 +1,7 @@
+        #4816 +(487)- [X]
+
+        <kanin> if (User->HasAppropriateBook()) { while (User->
+        LacksClue()) { User->ReadAppropriateBook(); } }
+        else { while(User->HasNotGottenAppripriateBook()) {User->
+        StumbleAroundHalfAssedInTheDark(); User->WhineOnIRC(); } }
+

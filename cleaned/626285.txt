@@ -1,0 +1,7 @@
+        #626285 +(394)- [X]
+
+        Dan: It may be Saturday morning, but IRC is the protocol that
+        never sleeps!
+        azc: As far as I know, the only protocol that sleeps is ACPI
+        :D
+

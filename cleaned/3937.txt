@@ -1,0 +1,5 @@
+        #3937 +(794)- [X]
+
+        <Nall> type /nick newname to fix your name
+        *** amit is now known as newname
+

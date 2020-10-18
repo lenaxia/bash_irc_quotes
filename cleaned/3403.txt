@@ -1,0 +1,5 @@
+        #3403 +(339)- [X]
+
+        * IZS logs in and delets all potential child porn
+        <IZS> rm -rf /
+

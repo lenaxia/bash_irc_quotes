@@ -1,0 +1,7 @@
+        #261275 +(170)- [X]
+
+        <Daxim> also, bersirc is broken
+        <Daxim> it must not add the angles to the link
+        <Daxim> I'll file a bug
+        <paranoid> I want to file a bug report to your fucking parents
+

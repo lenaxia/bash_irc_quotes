@@ -1,0 +1,7 @@
+        #8891 +(52)- [X]
+
+        :TheDude: why are some Vhosts not traceable while some are
+        traceable?
+        :TheDude: NetAdmin.irc-chat.net
+        :TheDude: is one from a whois
+

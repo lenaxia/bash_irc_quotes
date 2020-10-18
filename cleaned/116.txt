@@ -1,0 +1,7 @@
+        #116 +(182)- [X]
+
+        <Daze> did you bind and unbind the strings correctly
+        <DigDug> Yes.
+        <DigDug> unbind msg - hello *msg:hello
+        <DigDug> bind msg - myword *msg:d1gdug
+

@@ -1,0 +1,4 @@
+        #90212 +(286)- [X]
+
+        <wax-> What is the minimum dos version linux will run on?
+

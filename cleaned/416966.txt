@@ -1,0 +1,13 @@
+        #416966 +(627)- [X]
+
+        ::: Joins: STRAUSS
+        (Simmons@Kitchener-HSE-ppp3578448.sympatico.ca)
+        (STRAUSS) hey how do i change my quit message
+        (@Seriph) /quit message
+        (STRAUSS) ty
+        ::: Quits: STRAUSS
+        (Simmons@Kitchener-HSE-ppp3578448.sympatico.ca): Quit: message
+        ::: Joins: STRAUSS
+        (Simmons@Kitchener-HSE-ppp3578448.sympatico.ca)
+        (STRAUSS) ban Seriph!
+

@@ -1,0 +1,6 @@
+        #696997 +(2694)- [X]
+
+        <Goat25> what is the volume of a pizza of radius z and
+        thickness a ?
+        <Goat25> answer: pi z z a
+

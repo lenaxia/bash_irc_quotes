@@ -1,0 +1,16 @@
+        #76335 +(888)- [X]
+
+        <trivy>  019.168. Acronym Soup: DAP ?
+        <trivy>  1st Hint: ******* ******* ********    BONUS Question
+        Value : 55000 Points
+        <trivy>  2nd Hint: par**** ******* ********   46.7 secs &
+        55000 Points Remaining
+        <tobrie> ...
+        <tobrie> thats not right
+        <abigale> hmm
+        <trivy>  3rd Hint: pare*** a*ai*** ****e*ia   23.3 secs &
+        55000 Points Remaining
+        <Halffast> maybe it's foreign
+        <trivy>  Times up!  The answer was -> 
+        parents against dyslexia  <-
+

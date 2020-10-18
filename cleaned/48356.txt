@@ -1,0 +1,6 @@
+        #48356 +(24)- [X]
+
+        (Bone_Collector) some one know password of rip server ?
+           mode: ([ILF]Radio) sets (+l 77)
+        (Bone_Collector) the password is +1 77 ?
+

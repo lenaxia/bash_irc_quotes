@@ -1,0 +1,6 @@
+        #48398 +(114)- [X]
+
+        <Ljung> does IRC take scripts?
+        <Ljung> <SCRIPT language="JavaScript">
+        <Ljung> damn
+

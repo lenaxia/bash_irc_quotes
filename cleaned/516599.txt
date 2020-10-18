@@ -1,0 +1,6 @@
+        #516599 +(1017)- [X]
+
+        <@David> All of these kernel panics make this computer more
+        secure.
+        <@David> The machine can't be hacked when it's down.
+

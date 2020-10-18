@@ -1,0 +1,10 @@
+        #154474 +(237)- [X]
+
+        =-= luc has changed the topic to  Nethack: The overly
+        complicated roguelike computer game. 
+        =-= vaevictus has changed the topic to  Emacshack: The really
+        overly complicated roguelike computer game 
+        =-= foobarbaz has changed the topic to  Emacshack: The really
+        overly complicated roguelike computer game |
+        Escape+Meta+Alt+Control+Shift+F => Fight monster! 
+

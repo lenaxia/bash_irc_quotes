@@ -1,0 +1,7 @@
+        #954155 +(282)- [X]
+
+        <Ishimura> woah
+        <Ishimura> finger is apparently functional cross-platform
+        <SilentPenguin> yeah, users understand the finger irrespective
+        of the operating system they are using
+
