@@ -64,7 +64,9 @@ find cleaned -name "*.txt" | parallel "egrep -o '<(\w){2,}>' {} | sort | uniq" |
 
 What is the relationship between quote length and score look like?
 ![test](img/len_vs_score.png "")
-_(See more in `eda.ipynb`. The IPython notebook depends on matplotlib and pandas. For your convenience I have included a Pipfile)_
+
+
+See more in `eda.ipynb`. The IPython notebook depends on matplotlib and pandas. For your convenience I have included a Pipfile.
 
 ## Project Ideas:
 - Build a model that forecasts the bash.org score of an IRC quotes.
