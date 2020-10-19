@@ -15,7 +15,7 @@ def generate_csv(file_list:List[str]):
             header = text[0]
             score = int(header[header.find("(") + 1 : header.find(")")])
             body = "".join([line.replace("\n","\\n") for line in text[1:]])
-            print(f"{quote_id},{score},\"{body}\"")
+            print(f"{quote_id}\t{score}\t{body}")
 
 if __name__ == "__main__":
     generate_csv(sys.argv[1:])
