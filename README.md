@@ -1,3 +1,5 @@
+Forked from: https://gitlab.com/dwrodri/bash_irc_quotes
+
 # IRC Quote Dataset
 
 Unoffficial of cleaned IRC quotes from [bash.org](http://bash.org)
